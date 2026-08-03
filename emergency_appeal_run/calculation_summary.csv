@@ -1,0 +1,46 @@
+donor_name,tier,ask_amount,calculation,file
+James Whitfield,Gold,"$3,700","largest_gift $12,000 x Gold rate 25% = $3,000.00 | rounded to nearest $50 = $3,000 | volunteer -> +$100 flat = $3,100.00 | Emergency Appeal -> x1.20 = $3,720.00 | final rounded ask = $3,700",draft_James_Whitfield.html
+Dorothy Callahan,Gold,"$1,100","largest_gift $3,500 x Gold rate 25% = $875.00 | rounded to nearest $50 = $900 | Emergency Appeal -> x1.20 = $1,080.00 | final rounded ask = $1,100",draft_Dorothy_Callahan.html
+Deborah Sorenson,Gold,"$2,100","largest_gift $7,000 x Gold rate 25% = $1,750.00 | rounded to nearest $50 = $1,750 | Emergency Appeal -> x1.20 = $2,100.00 | final rounded ask = $2,100",draft_Deborah_Sorenson.html
+Angela Petersen,Gold,"$1,700","largest_gift $5,500 x Gold rate 25% = $1,375.00 | rounded to nearest $50 = $1,400 | Emergency Appeal -> x1.20 = $1,680.00 | final rounded ask = $1,700",draft_Angela_Petersen.html
+Grace Thornton,Gold,"$1,200","largest_gift $4,000 x Gold rate 25% = $1,000.00 | rounded to nearest $50 = $1,000 | Emergency Appeal -> x1.20 = $1,200.00 | final rounded ask = $1,200",draft_Grace_Thornton.html
+Linda Petrov,Gold,"$4,500","largest_gift $15,000 x Gold rate 25% = $3,750.00 | rounded to nearest $50 = $3,750 | Emergency Appeal -> x1.20 = $4,500.00 | final rounded ask = $4,500",draft_Linda_Petrov.html
+Helen Magnusson,Gold,"$3,600","largest_gift $12,000 x Gold rate 25% = $3,000.00 | rounded to nearest $50 = $3,000 | Emergency Appeal -> x1.20 = $3,600.00 | final rounded ask = $3,600",draft_Helen_Magnusson.html
+Maria Yamamoto,Gold,"$2,700","largest_gift $9,000 x Gold rate 25% = $2,250.00 | rounded to nearest $50 = $2,250 | Emergency Appeal -> x1.20 = $2,700.00 | final rounded ask = $2,700",draft_Maria_Yamamoto.html
+Emma Bergstrom,Gold,"$2,400","largest_gift $8,000 x Gold rate 25% = $2,000.00 | rounded to nearest $50 = $2,000 | Emergency Appeal -> x1.20 = $2,400.00 | final rounded ask = $2,400",draft_Emma_Bergstrom.html
+Nora Bergqvist,Gold,"$3,900","largest_gift $13,000 x Gold rate 25% = $3,250.00 | rounded to nearest $50 = $3,250 | Emergency Appeal -> x1.20 = $3,900.00 | final rounded ask = $3,900",draft_Nora_Bergqvist.html
+Nancy Okafor,Gold,"$2,300","largest_gift $7,500 x Gold rate 25% = $1,875.00 | rounded to nearest $50 = $1,900 | Emergency Appeal -> x1.20 = $2,280.00 | final rounded ask = $2,300",draft_Nancy_Okafor.html
+Vera Johansson,Gold,"$2,700","largest_gift $9,000 x Gold rate 25% = $2,250.00 | rounded to nearest $50 = $2,250 | Emergency Appeal -> x1.20 = $2,700.00 | final rounded ask = $2,700",draft_Vera_Johansson.html
+Margaret Alcott,Silver,$250,"largest_gift $1,500 x Silver rate 15% = $225.00 | rounded to nearest $50 = $200 | Emergency Appeal -> x1.20 = $240.00 | final rounded ask = $250",draft_Margaret_Alcott.html
+Harold Mensah,Silver,$350,"largest_gift $1,400 x Silver rate 15% = $210.00 | rounded to nearest $50 = $200 | volunteer -> +$100 flat = $300.00 | Emergency Appeal -> x1.20 = $360.00 | final rounded ask = $350",draft_Harold_Mensah.html
+Barbara Jensen,Silver,$350,"largest_gift $2,000 x Silver rate 15% = $300.00 | rounded to nearest $50 = $300 | Emergency Appeal -> x1.20 = $360.00 | final rounded ask = $350",draft_Barbara_Jensen.html
+Betty Nakagawa,Silver,$500,"largest_gift $2,500 x Silver rate 15% = $375.00 | rounded to nearest $50 = $400 | Emergency Appeal -> x1.20 = $480.00 | final rounded ask = $500",draft_Betty_Nakagawa.html
+Ada Yamamoto-Pierce,Silver,"$1,000","largest_gift $5,000 x Silver rate 15% = $750.00 | rounded to nearest $50 = $750 | volunteer -> +$100 flat = $850.00 | Emergency Appeal -> x1.20 = $1,020.00 | final rounded ask = $1,000",draft_Ada_Yamamoto-Pierce.html
+Claire Oduya,Silver,$650,"largest_gift $3,000 x Silver rate 15% = $450.00 | rounded to nearest $50 = $450 | volunteer -> +$100 flat = $550.00 | Emergency Appeal -> x1.20 = $660.00 | final rounded ask = $650",draft_Claire_Oduya.html
+Ruth Andersen,Silver,"$1,400","largest_gift $7,000 x Silver rate 15% = $1,050.00 | rounded to nearest $50 = $1,050 | volunteer -> +$100 flat = $1,150.00 | Emergency Appeal -> x1.20 = $1,380.00 | final rounded ask = $1,400",draft_Ruth_Andersen.html
+Janet Okonkwo,Silver,$650,"largest_gift $3,000 x Silver rate 15% = $450.00 | rounded to nearest $50 = $450 | volunteer -> +$100 flat = $550.00 | Emergency Appeal -> x1.20 = $660.00 | final rounded ask = $650",draft_Janet_Okonkwo.html
+Shirley Magnusdottir,Silver,"$1,400","largest_gift $7,000 x Silver rate 15% = $1,050.00 | rounded to nearest $50 = $1,050 | volunteer -> +$100 flat = $1,150.00 | Emergency Appeal -> x1.20 = $1,380.00 | final rounded ask = $1,400",draft_Shirley_Magnusdottir.html
+Owen Oduya,Silver,$350,"largest_gift $1,200 x Silver rate 15% = $180.00 | rounded to nearest $50 = $200 | volunteer -> +$100 flat = $300.00 | Emergency Appeal -> x1.20 = $360.00 | final rounded ask = $350",draft_Owen_Oduya.html
+Susan Nakamura,Silver,$350,"largest_gift $1,500 x Silver rate 15% = $225.00 | rounded to nearest $50 = $200 | volunteer -> +$100 flat = $300.00 | Emergency Appeal -> x1.20 = $360.00 | final rounded ask = $350",draft_Susan_Nakamura.html
+Joe Iwamoto,Silver,$350,"largest_gift $1,300 x Silver rate 15% = $195.00 | rounded to nearest $50 = $200 | volunteer -> +$100 flat = $300.00 | Emergency Appeal -> x1.20 = $360.00 | final rounded ask = $350",draft_Joe_Iwamoto.html
+Michael Torres,Lapsed,$50,Lapsed flat ask = $50,draft_Michael_Torres.html
+Charles Kimura,Lapsed,$50,Lapsed flat ask = $50,draft_Charles_Kimura.html
+Paul Achebe,Lapsed,$50,Lapsed flat ask = $50,draft_Paul_Achebe.html
+Frank Watanabe,Lapsed,$50,Lapsed flat ask = $50,draft_Frank_Watanabe.html
+Lars Achebe-Nielsen,Lapsed,$50,Lapsed flat ask = $50,draft_Lars_Achebe-Nielsen.html
+Thomas Bergmann,Lapsed,$50,Lapsed flat ask = $50,draft_Thomas_Bergmann.html
+Frank Dimitriou,Lapsed,$50,Lapsed flat ask = $50,draft_Frank_Dimitriou.html
+Raymond Volkov,Lapsed,$50,Lapsed flat ask = $50,draft_Raymond_Volkov.html
+Henry Obi,Lapsed,$50,Lapsed flat ask = $50,draft_Henry_Obi.html
+Felix Mensah-Bonsu,Lapsed,$50,Lapsed flat ask = $50,draft_Felix_Mensah-Bonsu.html
+Patricia Huang,Bronze,$150,Bronze flat ask = $150,draft_Patricia_Huang.html
+Brenda Kowalski,Bronze,$150,Bronze flat ask = $150,draft_Brenda_Kowalski.html
+Carol Eriksson,Bronze,$150,Bronze flat ask = $150,draft_Carol_Eriksson.html
+Kathy Lindberg,Bronze,$150,Bronze flat ask = $150,draft_Kathy_Lindberg.html
+Iris Kowalczyk,Bronze,$150,Bronze flat ask = $150,draft_Iris_Kowalczyk.html
+David Osei,Bronze,$150,Bronze flat ask = $150,draft_David_Osei.html
+George Nwosu,Bronze,$150,Bronze flat ask = $150,draft_George_Nwosu.html
+Samuel Lindqvist,Bronze,$150,Bronze flat ask = $150,draft_Samuel_Lindqvist.html
+Jack Nkemdirim,Bronze,$150,Bronze flat ask = $150,draft_Jack_Nkemdirim.html
+Igor Volkov,Bronze,$150,Bronze flat ask = $150,draft_Igor_Volkov.html
+Arthur Mwangi,Bronze,$150,Bronze flat ask = $150,draft_Arthur_Mwangi.html
